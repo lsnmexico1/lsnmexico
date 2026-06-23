@@ -120,11 +120,11 @@ const RULE_SECTIONS = [
     rules: [
       "HQ raid csak komoly IC indokkal indítható.",
 
-"HQ raid előtt kötelező megfelelő RP-előzmény, egy egyszerű szóváltás vagy vitázás nem elegendő indok.",
+"HQ raid előtt kötelező megfelelő RP-előzmény, megfigyelés, stb...",
 
 "HQ raidhez mindkét féltől minimum 6 tag, illetve egy admin jelenléte szükséges.",
 
-"TILOS szövetkezni HQ raidnél, kivéve ha a beavatkozó frakciónak IC előzménye van mindkét frakcióval. Pl.: \"A\" frakció megtámadja \"B\" frakciót, viszont \"C\" frakciót 2 hete szintén megtámadta \"A\" frakció, ezért egymásnak segítenek. ugyanez",
+"TILOS szövetkezni HQ raidnél, kivéve ha a beavatkozó frakciónak IC előzménye van mindkét frakcióval. Pl.: \"A\" frakció megtámadja \"B\" frakciót, viszont \"C\" frakciót 2 hete szintén megtámadta \"A\" frakció, ezért egymásnak segítenek.",
 
 "Egy HQ raid után minimum 10 nap el kell hogy teljen, mielőtt újra megtámadhatóak.",
 
@@ -155,40 +155,63 @@ const RULE_SECTIONS = [
     title: "Publikus Hely Szabályzat",
     tag: "Publikus Helyekre vonatkozó Szabályzatok",
     rules: [
-      "Ide írd a frakciókra vonatkozó szabályokat.",
-      "Ide írd a frakcióvezetők kötelességeit.",
-      "Ide írd a frakcióból való kilépés szabályait.",
+      "TILOS publikus helyen indokolatlanul lövöldözni, verekedni vagy provokálni.",
+      "Publikus helyen kötelező figyelembe venni a környezetet és a reális következményeket.",
+      "TILOS publikus helyet biztonságos menekülési pontként használni RP elől.",
       "Ide írhatsz további alpontokat is, amennyit szeretnél."
     ]
   },
   {
-    title: "Járművek",
-    tag: "Autók / üldözések",
+    title: "Túszejtés Szabályzat",
+    tag: "Túszejtésre vonatkozó szabályok",
     rules: [
-      "Ide írd a járműhasználati szabályokat.",
-      "Ide írd az üldözésekre vonatkozó szabályokat.",
-      "Ide írd a tuninggal vagy lopott járművekkel kapcsolatos szabályokat.",
-      "Ide írd a pit maneuver vagy ram szabályokat, ha vannak."
+      "Túszejtés csak megfelelő IC indokkal történhet, a túszejtés célja nem a másik játékos szívatása, hanem egy élvezhető RP-helyzet létrehozása.",
+      "Túszejtésnek RP célja kell legyen.",
+      "Egy túszt maximum 1 óráig lehet fogva tartani, de ha beleegyezik akkor tovább is.",
     ]
   },
   {
-    title: "Safe Zone",
-    tag: "Védett területek",
+    title: "Report és Adminügy szabályzat",
+    tag: "Reportokra és Adminügyekre vonatkozó szabályzat.",
     rules: [
-      "Ide írd, mely helyek számítanak Safe Zone-nak.",
-      "Ide írd, mi tilos Safe Zone területén.",
-      "Ide írd a kivételeket, ha vannak.",
-      "Ide írd a büntetéseket vagy staff eljárást."
+      "TILOS adminnak hazudni!",
+      "Reportot csak- és kizárólag a /report paranccsal szabad írni. Bármilyen más in-game kommunikációs csatornán tilos segítséget kérni az adminoktól. (pl. frakció felhívás)",
+      "Report írás után TILOS az AFK - Ha kimegy egy STAFF tag, és nem reagálsz, le fogja zárni a reportodat!",
+      "Jó példa egy report szövegre: “Sziasztok, egy srác ide jött hozzánk és oknélkül lelőtt mindenkit. Rendelkezem videós bizonyítékkal, még tart a szituáció",
+      "Adminügy közben KÖTELEZŐ meghallgatni az admint, és a játékostársaidat."
+      "TILOS reportban sértegetni, provokálni vagy fenyegetőzni."
+      "TILOS RP Szituációt adminüggyel megszakitani! Súlyos szabálysértés esetén admin dönthet az RP megállításáról.   " 
+    
     ]
   },
   {
-    title: "Staff és szankciók",
-    tag: "Admin ügyek",
+    title: "Jármű szabályzat",
+    tag: "Járművekre vonatkozó szabályzat",
     rules: [
-      "Ide írd a staff döntésekkel kapcsolatos szabályokat.",
-      "Ide írd, hogyan lehet jelenteni egy játékost.",
-      "Ide írd a figyelmeztetés / kick / ban rendszer szabályait.",
-      "Ide írd a ticket vagy panaszkezelés menetét."
+      "Járművet MINDEN esetben reálisan kell használni, TILOS az irreális vezetés, stuntolás vagy RP-romboló közlekedés.",
+      "TILOS más játékos járművét ok nélkül lökdösni vagy megrongálni.",
+      "TILOS járművel épület belsejébe, lépcsőre, tetőre vagy irreális helyre felhajtani.",
+      "TILOS járművet ellopni kizárólag trollkodásból vagy más játékos zavarása céljából.",
+      "A Turret-el rendelkező járműveket szigorúan TILOS emberek ellen használni! Kocsikra, vagy helikopterek ellen lehet."
     ]
-  }
+  },
+     {
+    title: "Terület Szabályzat",
+    tag: "Területekre vonatkozó szabályzat.",
+    rules: [
+      "Területfoglalást csak is lábon lehet foglalni, járműben ülve TILOS!",  
+    ]
+  },
+  {
+    title: "Frakcióháború Szabályzat",
+    tag: "Frakcióháborúra vonatkozó szabályzatok.",
+    rules: [
+      "Frakcióháború kizárólag komoly IC előzmény alapján indítható.",
+      "TILOS a frakcióháborút folyamatos DM-ként kezelni, a háború nem azt jelenti, hogy minden találkozásnál azonnal lőni kell.",
+      "A frakcióháborúnak legyen egyértelmű IC oka, célja és lezárási lehetősége.",
+      "A háború előtt ajánlott IC figyelmeztetés, üzenet, tárgyalás vagy fenyegetés.",
+      "TILOS hamis vagy kitalált előzményekkel háborút indokolni."
+      "Frakcióháború nem jogosít fel automatikus HQ támadásra."
+    ]
+  },
 ];
