@@ -191,7 +191,8 @@ const RULE_SECTIONS = [
       "TILOS más játékos járművét ok nélkül lökdösni vagy megrongálni.",
       "TILOS járművel épület belsejébe, lépcsőre, tetőre vagy irreális helyre felhajtani.",
       "TILOS járművet ellopni kizárólag trollkodásból vagy más játékos zavarása céljából.",
-      "A Turret-el rendelkező járműveket szigorúan TILOS emberek ellen használni! Kocsikra, vagy helikopterek ellen lehet."
+      "A Turret-el rendelkező járműveket szigorúan TILOS emberek ellen használni! Kocsikra, vagy helikopterek ellen lehet.",
+      "Tilos olyan járművekből kilőni hátrafele, amiből hátul nem lehet kilátni, vagy gyalog nehéz visszalőni. (Pl.: Páncélozott járművek, Lamborghini)."
     ]
   },
      {
