@@ -31,7 +31,7 @@ const RULE_SECTIONS = [
 
 "TILOS az MG, olyan információk felhasználása amit az IC karaktered nem tudhat. (Pl. Stream-ben látod, hogy épp drogot csinálnak, te pedig odamész és lelövöd őket.)",
 
-"TILOS az SK, RK, NONRP, Force RP.",
+"TILOS az SK, RK, NONRP, Force RP, Hanyag RP.",
 
 "Az NRK csak enyhített formában engedélyezett, viszont nagyobb ugratások, sportautókkal földúton száguldani stb. TILOS.",
 
@@ -51,23 +51,19 @@ const RULE_SECTIONS = [
 
 "TILOS az irreális viselkedés az NPC-kel, Pl: Indokolatlanul lelőni, elütni őket.",
 
-"Kötelező a Mexikói / Dél-Amerikai öltözetstílusnak, illetve a karakteredhez megfelelően öltözködni.",
-
 "TILOS a toxikus viselkedés minden formája.",
 
 "TILOS az RP Alóli kilépés Pl: A rendvédelem beraideli a HQ-d, te pedig kilépsz, hogy ne kapjanak el.",
 
 "TILOS bármilyen segédprogram használata, amik előnyhöz juttatnak más játékosokkal szemben. (Célkereszt IS!)",
 
-"TILOS a Magyar, illetve Fun nevek (Pl.: Obumbu Kumbula) használata IC.",
-
-"TILOS valós személyek nevét használni, kivéve a frakcióknak megfelelő vezetőjének nevét, Pl.: CJNG-nek El Mencho, stb.)",
-
 "TILOS bármilyen OOC név vagy becenév használata IC.",
 
 "A szerveren kötelező Push-To-Talk használata.",
 
-"TILOS a rádiót használni, ha a karaktered eszméletlen, bilincsben van, vagy elvették tőle."
+"TILOS más szerverek reklámozása, hirdetése a szerveren.",    
+
+"TILOS a rádiót használni, ha a karaktered eszméletlen, bilincsben van, vagy elvették tőle.",
 
     ]
   },
@@ -119,7 +115,7 @@ const RULE_SECTIONS = [
     ]
   },
   {
-    title: "HQ Raid Szabályok,
+    title: "HQ Raid Szabályzat,
     tag: "HQ Raidre vonatkozó szabályok",
     rules: [
       "HQ raid csak komoly IC indokkal indítható.",
@@ -144,19 +140,20 @@ const RULE_SECTIONS = [
     ]
   },
   {
-    title: "Rablások és illegál",
-    tag: "Illegális RP",
+    title: "Karakter Szabályzat",
+    tag: "Karakterkészitésre vonatkozó szabályok.",
     rules: [
-      "Ide írd a rablások feltételeit.",
-      "Ide írd, mennyi rendőr szükséges egy akcióhoz.",
-      "Ide írd az illegális tevékenységek szabályait.",
-      "Ide írd a túszejtésre vonatkozó kiegészítéseket.",
-      "Ide írd a cooldown vagy egyéb korlátozásokat."
+      "TILOS Magyar, illetve Fun nevet megadni a karakterednek. (Pl.: Moumbala Kulumbu)",
+      "TILOS valós / ismert személyek nevét megadni. Ez alól kivételt képeznek az igazi cartellek vezetőinek a neve, ha te abban a szervezetben vagy. (Pl.: Ha a CJNG vezetője vagy, lehet El Mencho a neved.)",
+      "Kötelező a Mexikói / Dél-Amerikai öltözetstílusnak, illetve a karakteredhez megfelelően öltözködni.",
+      "Karaktered kinézetének illeszkednie kell a korához, háttértörténetéhez és élethelyzetéhez.",
+      "TILOS irreális karaktert készíteni (Pl.: 18 éves milliárdos maffiafőnök, 20 éves volt FBI-vezető, mindentudó ex-kommandós)"
+      "Karakterednek legyen gyengesége, félelme és reális személyisége. Nem játszhatsz sebezhetetlen, érzelemmentes „terminátor” karaktert."
     ]
   },
   {
-    title: "Frakciók",
-    tag: "Rendvédelem / bandák / cégek",
+    title: "Publikus Hely Szabályzat",
+    tag: "Publikus Helyekre vonatkozó Szabályzatok",
     rules: [
       "Ide írd a frakciókra vonatkozó szabályokat.",
       "Ide írd a frakcióvezetők kötelességeit.",
