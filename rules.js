@@ -72,24 +72,75 @@ const RULE_SECTIONS = [
     ]
   },
   {
-    title: "Roleplay szabályok",
-    tag: "RP viselkedés",
+    title: "Frakció Szabályzat",
+    tag: "Frakciókra vonatkozó szabályok",
     rules: [
-      "Ide írd az RP-vel kapcsolatos szabályokat.",
-      "Példa: karakterből kilépni aktív RP közben tilos.",
-      "Példa: minden szituációt komolyan kell venni.",
-      "Példa: non-RP viselkedés szankciót vonhat maga után.",
-      "Ide jöhetnek további RP szabályok is korlát nélkül."
+"Ha egy frakcióból kilépsz, 3 napos Frakció Jumpot kapsz, ez idő alatt nem mehetsz másik frakcióba.",
+
+"TILOS interiorba menekülni hogy meg menekülj egy RP-szál alól. Pl.: Egy CP-n keresztül bemész a házadba, ahova mások nem tudnak bejönni.",
+
+"Legális Frakciókban maximum 25, Illegális Frakciókban maximum 20 tag lehet.",
+
+"TILOS Frakcióváltás után az előző frakció belsős információit felhasználni, amennyiben CK-val távoztál a frakcióból.",
+
+"TILOS frakcióból kilépés előtt a közös raktárat, kasszát kifosztani.",
+
+"Egy kartellként kötelező álcázni a szervezetetek és bármilyen hozzá kötödő információt.",
+
+"A Frakció Leaderek kötelesek a tagjaik szabálysértéseiért is felelősséget vállalni.",
+
+"TILOS frakciók között OOC szövetséget kötni IC indok nélkül.",
+
+"TILOS frakció öltözet használata, ha már nem vagy a frakció tagja.",
+
+"TILOS frakciótagként szándékosan olyan helyzetbe hozni a frakciót, amely ellehetetleníti annak működését. Pl.: Direkt háborút provokálsz, aztán kilépsz.",
+
+"Tagfelvételhez kötelező legalább minimális IC felvételi folyamat.",
+
+"Rendvédelemnek a korruptkodás csak minimálisan engedélyzett. Pl.: Információ átadás, drogok eladása.",
+
+" Rendvédelmi frakció tagja csak szolgálatban használhat szolgálati felszerelést, kivéve undercover egységek.",
+
+"TILOS rendvédelmi tagként a szolgálati járműveket magáncélra használni.",
+
+"TILOS nyomós indok nélkül lövöldözést kezdeményezni!",
+
+"TILOS indokolatlanul, NonRP-sen megbilincselni valakit.",
+
+"Rendvédelmi személy nem adhat el szolgálati fegyvert, lőszert, és egyéb felszerelést.",
+
+"TILOS szolgálati fegyvert raktárból kivenni, és motelben vagy járműben tárolni.",
+
+"Rendvédelmi tagok kötelesek a testi épségüket előre helyezni. Pl.: HQ Raid közben nem szaladsz be egyedül.",
+
+"TILOS indokolatlanul erős fegyverzetet használni olyan szituációban, ami nem igényli meg azt."
+      
+"Az illegális frakció tagok nem öltözhetnek egyenruhába. Minden tagnak más ruhában kell lennie, hasonlóság csak nyomokban lehet felfedezhető. Ez alól kivételt képez a Tier 3-as és 4-es frakciók."
     ]
   },
   {
-    title: "RDM / VDM",
-    tag: "Tilos cselekedetek",
+    title: "HQ Raid Szabályok,
+    tag: "HQ Raidre vonatkozó szabályok",
     rules: [
-      "Ide írd az RDM szabályokat.",
-      "Ide írd a VDM szabályokat.",
-      "Ide írd a büntetéssel kapcsolatos részt.",
-      "Ide írhatsz még plusz pontokat is, nincs korlát."
+      "HQ raid csak komoly IC indokkal indítható.",
+
+"HQ raid előtt kötelező megfelelő RP-előzmény, egy egyszerű szóváltás vagy vitázás nem elegendő indok.",
+
+"HQ raidhez mindkét féltől minimum 6 tag, illetve egy admin jelenléte szükséges.",
+
+"TILOS szövetkezni HQ raidnél, kivéve ha a beavatkozó frakciónak IC előzménye van mindkét frakcióval. Pl.: \"A\" frakció megtámadja \"B\" frakciót, viszont \"C\" frakciót 2 hete szintén megtámadta \"A\" frakció, ezért egymásnak segítenek. ugyanez",
+
+"Egy HQ raid után minimum 10 nap el kell hogy teljen, mielőtt újra megtámadhatóak.",
+
+"Szerver Restart előtt fél órával TILOS HQ raidet kezdeményezni.",
+
+"HQ raid során a raktárkészlet maximum 50%-a elvihető.",
+
+"A védekező fél nem pakolhatja át a raktár tartalmát másik helyre, ha tudomása van róla hogy raidelni fogják.",
+
+"A támadó fél nem viheti el a raktár tartalmát mind addig, ameddig az összes tag el nem hagyja a raid területét.",
+
+"Ha egyszer elhagytátok a raid területét, nem mehettek vissza."
     ]
   },
   {
