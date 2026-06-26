@@ -27,7 +27,7 @@ const RULE_SECTIONS = [
     title: "Általános szabályok",
     tag: "Alap szabályzat",
     rules: [
-     "A szerver Voice RP alapú, így mikrofon használata kötelező."
+     "A szerver Voice RP alapú, így mikrofon használata kötelező.",
 
       
       "TILOS a DM, más játékosok megtámadása / megölése előzmény nélkül",
@@ -76,9 +76,7 @@ const RULE_SECTIONS = [
 
 "Legális tárgyakkal maximum 25000 Peso alatt lehet átverni másokat. Illegális tárgyakkal bármekkora értékben.",
 
-"Elbújni bokrokban engedélyezett, viszont azokból lőni TILOS!"      
-
-"      
+"Elbújni bokrokban engedélyezett, viszont azokból lőni TILOS!"           
     ]
   },
   {
