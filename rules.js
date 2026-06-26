@@ -40,7 +40,7 @@ const RULE_SECTIONS = [
 
 "Az NRK csak enyhített formában engedélyezett, viszont nagyobb ugratások, sportautókkal földúton száguldani stb. TILOS.",
 
-"TILOS a DB, kivéve, ha nyomós indokkal rendelkezel. (Pl.: Mész egyenesen, előugrik valaki a bokorból és elkezd lőni, ilyen esetekben szabályos elütni a másikat.)      
+"TILOS a DB, kivéve, ha nyomós indokkal rendelkezel. (Pl.: Mész egyenesen, előugrik valaki a bokorból és elkezd lőni, ilyen esetekben szabályos elütni a másikat.)"      
 
 "A PG csak enyhített formában engedélyezett, tehát ha 2-en fognak rád fegyvert, az egyik meg leteszi / elnéz másfele, az nem minősül PG-nek, de ITT IS kötelező az életedet a legfontosabb tényezőként kezelni. Viszont ha pl. 5-en fognak rád fegyvert és tovább rádiózol, futkározol az már PG-nek minősül és TILOS.",
 
