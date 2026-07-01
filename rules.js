@@ -87,6 +87,8 @@ const RULE_SECTIONS = [
 
 "TILOS interiorba menekülni hogy meg menekülj egy RP-szál alól. Pl.: Egy CP-n keresztül bemész a házadba, ahova mások nem tudnak bejönni.",
 
+"Rendvédelmis fegyvert elvenni / eladni TILOS (Aminek a neve elején GN van)",      
+
 "Legális Frakciókban maximum 25, Illegális Frakciókban maximum 20 tag lehet.",
 
 "TILOS Frakcióváltás után az előző frakció belsős információit felhasználni, amennyiben CK-val távoztál a frakcióból.",
