@@ -219,7 +219,8 @@ const RULE_SECTIONS = [
     rules: [
       "Területfoglalást csak is lábon lehet foglalni, járműben ülve TILOS!",
       "A terület egyfajta DM Zónaként szolgál, tehát ha a körön belül vagy és lelőnek, az nem DM.",
-      "Területfoglalásokon TILOS a DB minden formája! Csak is lábon, és fegyverrel lehet egymásra lőni." 
+      "Területfoglalásokon TILOS a DB minden formája! Csak is lábon, és fegyverrel lehet egymásra lőni.",
+      "TILOS területfoglalásra fegyver nélkül kimenni! Kés, boxer, stb. nem számit fegyvernek."
     ]
   },
   {
