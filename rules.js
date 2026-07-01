@@ -242,9 +242,6 @@ const RULE_SECTIONS = [
       "A szerveren csak Memória CK van, Teljes CK csak is Leader-ek és Al-Leader-ek esetén szabályos.",
       "CK-t csak megfelelő indokkal és előzetes jóváhagyással lehet végrehajtani..",
       "CK-hoz legalább 1 órás, dokumentált IC RP előzmény szükséges.",
-      "A háború előtt ajánlott IC figyelmeztetés, üzenet, tárgyalás vagy fenyegetés.",
-      "TILOS hamis vagy kitalált előzményekkel háborút indokolni.",
-      "Frakcióháború nem jogosít fel automatikus HQ támadásra."
     ]
   },
 ];
