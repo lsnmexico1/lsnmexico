@@ -174,7 +174,8 @@ const RULE_SECTIONS = [
       "TILOS publikus helyen indokolatlanul lövöldözni, verekedni vagy provokálni.",
       "Publikus helyen kötelező figyelembe venni a környezetet és a reális következményeket.",
       "TILOS publikus helyet biztonságos menekülési pontként használni RP elől.",
-      "TILOS publikus helyen csomagtartót kipakolni!"
+      "TILOS publikus helyen csomagtartót kipakolni!",
+      "Publikus helynek számit minden munkahely, garázs, forgalmas terület!",
     ]
   },
   {
