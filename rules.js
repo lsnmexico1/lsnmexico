@@ -64,6 +64,8 @@ const RULE_SECTIONS = [
 
 "TILOS bármilyen segédprogram használata, amik előnyhöz juttatnak más játékosokkal szemben. (Célkereszt, Blood Fx, Citizen IS!)",
 
+"TILOS munkában lévő, vagy munkahelyek 250 méteres körzetében embert kirabolni, elrabolni.",
+
 "TILOS bármilyen OOC név vagy becenév használata IC.",
 
 "A szerveren kötelező Push-To-Talk használata.",
