@@ -80,7 +80,25 @@ const RULE_SECTIONS = [
 
 "Elbújni bokrokban engedélyezett, viszont azokból lőni TILOS!",
 
-"Járművekkel TILOS átverni másokat!"      
+"Járművekkel TILOS átverni másokat!",
+
+"A következő rablásokra nem szükséges túsz: Raktárrablás, Yacht Rablás, Házrablás.",
+
+"Egy civil túszért maximum elkérhető 10.000 Peso.",
+"Egy rendvédelmis túszért maximum elkérhető 20.000 Peso",
+"Egy önkormányzati tagért, elnökért maximum elkérhető 50.000 Peso.",
+
+"Túsztárgyalót tilos befogni túsznak",
+
+"A rendvédelemnek és az illegálnak egyaránt kötelező a fair play, tehát mindkettő félnek hagynia kell esélyt, tilos ellehetetleniteni a másikat.",
+
+"megfelelő RP előzmény nélkül tilos kirabolni, elrabolni embereket",
+
+"fegyver van rád tartva, és egyéb kifejezések tilosak!",   
+
+"Egy játékos inventoryjából maximum 20.000 Peso elvehető",
+      
+      
     ]
   },
   {
@@ -129,7 +147,15 @@ const RULE_SECTIONS = [
 
 "TILOS indokolatlanul erős fegyverzetet használni olyan szituációban, ami nem igényli meg azt.",
       
-"Az illegális frakció tagok nem öltözhetnek egyenruhába. Minden tagnak más ruhában kell lennie, hasonlóság csak nyomokban lehet felfedezhető. Ez alól kivételt képez a Tier 3-as és 4-es frakciók."
+"Az illegális frakció tagok nem öltözhetnek egyenruhába. Minden tagnak más ruhában kell lennie, hasonlóság csak nyomokban lehet felfedezhető. Ez alól kivételt képez a Tier 3-as és 4-es frakciók.",
+
+"A rendőrök csak nyomós indok esetén kutathatnak át, ezalól kivételt képeznek a határellenőrzések.",
+
+"Legális frakciók csak azokat a fegyvereket használhatják, amik GN névvel kezdődnek.",       
+
+"Rendőröknek minden esetben a túsz a legfontosabb, és csak is a LEGVÉGSŐ esetben, ha már nincs más megoldás lőhetnek",
+
+"Amennyiben a rendvédelem börtönbe szeretne zárni valakit, kötelező a rabszállitás",      
     ]
   },
   {
@@ -213,7 +239,8 @@ const RULE_SECTIONS = [
       "TILOS járművel épület belsejébe, lépcsőre, tetőre vagy irreális helyre felhajtani.",
       "TILOS járművet ellopni kizárólag trollkodásból vagy más játékos zavarása céljából.",
       "A Turret-el rendelkező járműveket szigorúan TILOS emberek ellen használni! Kocsikra, vagy helikopterek ellen lehet.",
-      "Tilos olyan járművekből kilőni hátrafele, amiből hátul nem lehet kilátni, vagy gyalog nehéz visszalőni. (Pl.: Páncélozott járművek, Lamborghini)."
+      "Tilos olyan járművekből kilőni hátrafele, amiből hátul nem lehet kilátni, vagy gyalog nehéz visszalőni. (Pl.: Páncélozott járművek, Lamborghini).",
+      "Golyóálló autóból kifele tilos lőni!",
     ]
   },
      {
@@ -223,7 +250,8 @@ const RULE_SECTIONS = [
       "Területfoglalást csak is lábon lehet foglalni, járműben ülve TILOS!",
       "A terület egyfajta DM Zónaként szolgál, tehát ha a körön belül vagy és lelőnek, az nem DM.",
       "Területfoglalásokon TILOS a DB minden formája! Csak is lábon, és fegyverrel lehet egymásra lőni.",
-      "TILOS területfoglalásra fegyver nélkül kimenni! Kés, boxer, stb. nem számit fegyvernek."
+      "TILOS területfoglalásra fegyver nélkül kimenni! Kés, boxer, stb. nem számit fegyvernek.",
+      "RENDŐRŐK NEM MEHETNEK KI TERÜLETRE!",
     ]
   },
   {
